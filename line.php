@@ -3,8 +3,8 @@
 include('LineClass.php');
 //Get code
 $code = ($_GET['code']);
-$client_id = '1481604842';
-$client_secret = 'a7b27636f1be60fcc0e12f08f996a01b';
+$client_id = '1518772834';
+$client_secret = '02cfdcfbbe67ee26c69fca2966679b9b';
 
 //Initiate Class
 $lineClass = new LineClass;
