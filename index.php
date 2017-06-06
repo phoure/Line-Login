@@ -69,7 +69,7 @@
 
             <form class="form-signin">
                 <h2 class="form-signin-heading">Login Line</h2>
-                <a type="button" class='btn btn-info' href="https://access.line.me/dialog/oauth/weblogin?response_type=code&client_id=1481604842&redirect_uri=	http://www.line.lctip.com/line.php&state=abcds">Login with Line</a>
+                <a type="button" class='btn btn-info' href="https://phoureapp.herokuapp.com/?response_type=code&client_id=1518772834&redirect_uri=	https://phoureapp.herokuapp.com/line.php&state=abcds">Login with Line</a>
              
             </form>
 
